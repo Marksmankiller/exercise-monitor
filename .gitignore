@@ -1,0 +1,4 @@
+train/
+test/
+unsorted_images/
+cnn_1.h5
